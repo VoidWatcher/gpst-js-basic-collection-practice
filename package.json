@@ -19,5 +19,8 @@
   "homepage": "https://school.thoughtworks.cn",
   "devDependencies": {
     "jasmine": "^2.6.0"
+  },
+  "dependencies": {
+    "eslint": "^4.5.0"
   }
 }
